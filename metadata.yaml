@@ -1,0 +1,30 @@
+_repo: The-Heir-of-Mondolfo_66545
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Shelley, Mary Wollstonecraft
+    aliases:
+    - Shelley, Mary W.
+    - Shelley, Mary Wollstonecraft Godwin
+    birthdate: 1797
+    deathdate: 1851
+    gutenberg_agent_id: '61'
+    url: http://www.gutenberg.org/2009/agents/61
+    wikipedia: https://en.wikipedia.org/wiki/Mary_Wollstonecraft_Shelley
+description: ''
+gutenberg_issued: '2021-10-15'
+identifiers:
+  gutenberg: '66545'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fathers and sons -- Fiction'
+- !lcsh 'Husband and wife -- Fiction'
+- !lcsh 'Social classes -- Fiction'
+- !lcsh 'Naples (Kingdom) -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Heir of Mondolfo
+url: http://www.gutenberg.org/ebooks/66545
